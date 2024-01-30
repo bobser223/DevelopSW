@@ -1,2 +1,2 @@
-git != linux !!!
-factorial of 0 == 0
+
+git != linux
